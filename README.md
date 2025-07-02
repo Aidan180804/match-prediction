@@ -1,6 +1,6 @@
 # introduction
 
-this project seeks to develop an effective model and data structure to predict the results of a given premier league fixture using both team's per90 stats and other variables
+this project seeks to develop an effective model and data structure to predict the results of a given premier league fixture using various team stats and other variables
 
 # current performance
 
